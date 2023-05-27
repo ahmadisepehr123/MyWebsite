@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"3EMgU":[function(require,module,exports) {
+})({"ShInH":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -541,7 +541,7 @@ var _scrollRevealConfig = require("./data/scrollRevealConfig");
 (0, _scrollRevealDefault.default)((0, _scrollRevealConfig.targetElements), (0, _scrollRevealConfig.defaultProps));
 (0, _tiltAnimationDefault.default)();
 
-},{"./scripts/scrollReveal":"54rka","./scripts/tiltAnimation":"72kAb","./data/scrollRevealConfig":"5aORV","@parcel/transformer-js/src/esmodule-helpers.js":"7dUKI"}],"54rka":[function(require,module,exports) {
+},{"./scripts/scrollReveal":"54rka","./scripts/tiltAnimation":"72kAb","./data/scrollRevealConfig":"5aORV","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"54rka":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 function initScrollReveal(targetElements, defaultProps) {
@@ -555,7 +555,7 @@ function initScrollReveal(targetElements, defaultProps) {
 }
 exports.default = initScrollReveal;
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"7dUKI"}],"7dUKI":[function(require,module,exports) {
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"gkKU3":[function(require,module,exports) {
 exports.interopDefault = function(a) {
     return a && a.__esModule ? a : {
         default: a
@@ -596,7 +596,7 @@ function initTiltAnimation() {
 }
 exports.default = initTiltAnimation;
 
-},{"vanilla-tilt":"jiWzO","@parcel/transformer-js/src/esmodule-helpers.js":"7dUKI"}],"jiWzO":[function(require,module,exports) {
+},{"vanilla-tilt":"jiWzO","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"jiWzO":[function(require,module,exports) {
 "use strict";
 var classCallCheck = function(instance, Constructor) {
     if (!(instance instanceof Constructor)) throw new TypeError("Cannot call a class as a function");
@@ -1021,6 +1021,6 @@ const targetElements = [
     }
 ];
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"7dUKI"}]},["3EMgU","8lqZg"], "8lqZg", "parcelRequire6aa4")
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["ShInH","8lqZg"], "8lqZg", "parcelRequire6aa4")
 
 //# sourceMappingURL=index.975ef6c8.js.map
