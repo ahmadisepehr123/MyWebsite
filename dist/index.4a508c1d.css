@@ -77,6 +77,12 @@
     scroll-behavior: smooth;
   }
 }
+ 
+ 
+p{
+ 
+  font-weight: bolder;
+}
 
 body {
   font-family: var(--bs-body-font-family);
